@@ -1,0 +1,58 @@
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll.config
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.pdb
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.dll
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.pdb
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll.config
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.xml
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CopyComplete
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.dll
+C:\Users\pc1\source\repos\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll.config
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll.config
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.pdb
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll.config
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.pdb
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.dll
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.pdb
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll.config
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.xml
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CopyComplete
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.dll
+D:\for joseph\ttt\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll.config
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.BAL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\CompanyEmployees.DAL.SQL.dll.config
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Debug\CompanyEmployees.BAL.pdb

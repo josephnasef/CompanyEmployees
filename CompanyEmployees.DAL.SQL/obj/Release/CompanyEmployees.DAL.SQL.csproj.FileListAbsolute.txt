@@ -1,0 +1,31 @@
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.dll.config
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.SqlServer.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.SqlServer.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.AssemblyReference.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.Migrations.ss.resources
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.GenerateResource.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.CoreCompileInputs.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.CopyComplete
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.dll.config
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\CompanyEmployees.DAL.SQL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.SqlServer.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\bin\Release\EntityFramework.SqlServer.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.AssemblyReference.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.Migrations.ss.resources
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.Migrations.ss1.resources
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.Migrations.ss3.resources
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.Migrations.ss4.resources
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.GenerateResource.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.CoreCompileInputs.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.csproj.CopyComplete
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.DAL.SQL\obj\Release\CompanyEmployees.DAL.SQL.pdb

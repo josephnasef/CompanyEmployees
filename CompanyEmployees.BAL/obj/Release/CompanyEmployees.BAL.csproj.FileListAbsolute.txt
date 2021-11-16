@@ -1,0 +1,29 @@
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.dll.config
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.SqlServer.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.pdb
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.dll.config
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.SqlServer.xml
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.dll
+F:\for joseph\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.dll.config
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.BAL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.SqlServer.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.pdb
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\CompanyEmployees.DAL.SQL.dll.config
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\bin\Release\EntityFramework.SqlServer.xml
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.csproj.AssemblyReference.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.csproj.CoreCompileInputs.cache
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.csproj.CopyComplete
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.dll
+F:\project\Company\CompanyEmployees\CompanyEmployees.BAL\obj\Release\CompanyEmployees.BAL.pdb
